@@ -1,12 +1,2 @@
-- 👋 Hi, I’m @phlegmaSen
-- 👀 I’m interested in in baking, Python, books, music, history, chess
-- 🌱 I’m currently learning Python, how to use Github, German history around the year 1870, baking bread with sourdough and chess openings
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-phlegmaSen/phlegmaSen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m @phlegmaSen
+I’m interested in in sourdough, Python, books, music, history, chess
